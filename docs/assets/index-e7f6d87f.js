@@ -78,7 +78,7 @@
           </div>
           <div id="main-screen">
           
-          <img src="/assets/img/pokemon1.png" alt="Pokemon" class="img"  id="pokeImg" width="150px">
+          <img src="./assets/img/pokemon1.png" alt="Pokemon" class="img"  id="pokeImg" width="150px">
 
           </div>
           <div class="bottom-screen-lights">
